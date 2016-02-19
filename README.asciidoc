@@ -24,12 +24,6 @@ Introduction to Eclipse - Driving Java Productivity: http://mrkn.co/s/video_intr
 
 Java Tutorial http://docs.oracle.com/javase/tutorial/
 
-Gradle NDK Experimental plugin transition - http://tools.android.com/tech-docs/new-build-system/gradle-experimental
-
-Gradle NDK Experimental plugin - http://de.slideshare.net/ph0b/mastering-the-ndk-with-android-studio-and-the-gradleexperimental-plugin
-
-Marius presentation on how to secure an Android app + decompiling - http://de.slideshare.net/fastlink2/20140917-curious-mindshowsecureareyourlocalapps
-
 
 == About Yamba ==
 
