@@ -1,0 +1,11 @@
+[[Yamba]]
+= Yamba =
+
+== About Yamba ==
+
+Yamba is **Y**et **A**nother **M**icro **B**logging **A**pp. It was written to support various Android training classes, most specifically Android Bootcamp, and is an evolution of the project from Learning Android book written by Marko Gargenta.
+
+Fork it at http://github.com/thenewcircle/yamba
+
+Happy hacking!
+- NewCircle Android Team
