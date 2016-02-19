@@ -1,11 +1,38 @@
-[[Yamba]]
-= Yamba =
+= Android Testing Workshop
+
+19.02.2016
+
+*Marius Mailat*, +<marius.mailat@gmail.com>+
+
+== Obtaining Course Materials
+
+You can either clone this Git repository:
+
+  git clone git://github.com/mailat/android-testing-2016-02-19.git
+
+or
+
+   download a Zip archive by clicking the link at the top of the page or using the link: https://github.com/mailat/android-testing-2016-02-19/archive/master.zip
+
+== Useful Links
+
+Git book: http://git-scm.com/book
+
+Marakana Java Fundamentals Tutorial: http://marakana.com/bookshelf/java_fundamentals_tutorial/index.html
+
+Introduction to Eclipse - Driving Java Productivity: http://mrkn.co/s/video_introduction_to_eclipse_driving_java_productivity,595/index.html
+
+Java Tutorial http://docs.oracle.com/javase/tutorial/
+
+Gradle NDK Experimental plugin transition - http://tools.android.com/tech-docs/new-build-system/gradle-experimental
+
+Gradle NDK Experimental plugin - http://de.slideshare.net/ph0b/mastering-the-ndk-with-android-studio-and-the-gradleexperimental-plugin
+
+Marius presentation on how to secure an Android app + decompiling - http://de.slideshare.net/fastlink2/20140917-curious-mindshowsecureareyourlocalapps
+
 
 == About Yamba ==
 
-Yamba is **Y**et **A**nother **M**icro **B**logging **A**pp. It was written to support various Android training classes, most specifically Android Bootcamp, and is an evolution of the project from Learning Android book written by Marko Gargenta.
-
-Fork it at http://github.com/thenewcircle/yamba
+Yamba is **Y**et **A**nother **M**icro **B**logging **A**pp. It was written to support various Android training classes, most specifically Android Bootcamp, and is an evolution of the project from Learning Android book written by Marko Gargenta. Fork it at http://github.com/thenewcircle/yamba
 
 Happy hacking!
-- NewCircle Android Team
